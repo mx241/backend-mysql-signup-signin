@@ -1,0 +1,42 @@
+body{
+    background-color: #161212;
+    margin: 0;
+    padding: 0;
+    background-image: url("https://rights.mediawan.com/_next/image?url=https%3A%2F%2Fcontent.rights.mediawan.com%2Fuploads%2F568a75faecb39_d0d15a49a2.jpg&w=1920&q=75");
+    background-position: center;
+    background-size: cover;
+  }
+  
+
+
+  .signup-form {
+    width: 300px;
+    height: 300px;
+    margin: 8% auto 0 ;
+    text-align: center;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+    padding: 20px;
+    background-color: white;
+    text-align: center;
+  }
+  
+.input-box {
+
+border-radius: 20px;
+padding: 10px;
+margin: 10px;
+width: 80%;
+border: 1px solid #999;
+outline:none;
+
+
+}
+
+.submit-box {
+
+background-color: white;
+
+
+
+}
+
